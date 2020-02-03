@@ -15,3 +15,10 @@ Perhaps use it to migrate some of your favourites from your Khan Academy work (a
 To start with, it will look like this: https://codeyourfuture.github.io/p5js-minimal/
 
 Make it cooler!
+
+
+## My khan academy (processing.js) code doesn't work in p5.js!
+
+Don't panic, almost all of your code will work fine.
+
+See [this migration guide](https://github.com/CodeYourFuture/fundamentals-course/blob/master/from-khan-academy-processingjs-to-p5js.md)
