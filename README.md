@@ -1,3 +1,6 @@
+(Hello!  Remember, once you've forked this project, this file is YOURS to delete or re-write as you like!)
+
+
 # A minimal starting template for a p5.js "sketch", for CYF students
 
 ## What is this?
