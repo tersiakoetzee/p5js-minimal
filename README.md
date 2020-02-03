@@ -7,6 +7,8 @@
 
 This is a minimal p5js project for CYF students who have finished the fantastic Khan Academy intro to js: drawing and anim course.
 
+It's just a `.html` file and a `.js` file.
+
 ## What can I do with it?
 
 You can fork this repo to start working on your own p5.js projects.
