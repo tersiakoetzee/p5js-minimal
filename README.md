@@ -12,6 +12,6 @@ Perhaps use it to migrate some of your favourites from your Khan Academy work (a
 
 ## What does it look like when it runs?
 
-To start with, it will look like this: https://nbogie.github.io/p5js-minimal-for-cyf/
+To start with, it will look like this: https://codeyourfuture.github.io/p5js-minimal/
 
 Make it cooler!
