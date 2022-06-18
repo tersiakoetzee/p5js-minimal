@@ -1,5 +1,5 @@
 //An array of nice color codes we shall pick from
-let niceColors = ["#C5514C", "#EC9D6C", "#FAE2B7", "#6D7D8F", "#52728C"];
+let niceColors = ["#00bbf0", "#ff5722", "#efd510", "#4ef037", "#52728C"];
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -11,7 +11,7 @@ function draw() {
   let chosenColor = random(niceColors);
   fill(chosenColor);
   let size = random(20, 80);
-  triangle(mouseX, mouseY, size);
+square(mouseX, mouseY, size);
 }
 
 //Allow clearing the canvas by clicking...
